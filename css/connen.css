@@ -1,0 +1,71 @@
+*{margin: 0;padding: 0;}
+html,body{
+	height: 100%;
+}
+html{
+	font-size: 13.3333vw;
+}
+body{
+	
+	display: flex;
+	flex-direction: column;
+}
+/* header */
+/* .header{
+	height: 2rem;
+	width: 100%;
+	background: palegoldenrod;
+} */
+
+
+/* content */
+.content{
+	flex: 1;
+	overflow-y: auto;
+}
+.nav_1 ul{
+	display: flex;
+	width: 7.5rem;
+	height: 0.74rem;
+	border-bottom: solid 1px #CECECE;
+	line-height: 0.74rem;
+}
+.nav_1 ul li{
+	flex: 1;
+	display: flex;
+	height: 0.74rem;
+	width:2rem;
+	justify-content: center;
+	align-items: center;
+    border-right: solid 1px #cecece;
+}
+
+
+
+
+
+
+
+/* footer */
+/* .footer{
+	width: 100%;
+	height:1rem;
+	background: aquamarine;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
